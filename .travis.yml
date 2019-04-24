@@ -10,5 +10,5 @@ cache:
   directories:
     - $HOME/.gradle/caches/
     - $HOME/.gradle/wrapper/
-install: install.sh
-script: build.sh
+install: ./install.sh
+script: ./build.sh
